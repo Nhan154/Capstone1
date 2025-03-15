@@ -1929,11 +1929,6 @@ video {
   background-color: rgb(247 148 30 / var(--tw-bg-opacity, 1));
 }
 
-.hover\:bg-secondary:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(28 187 180 / var(--tw-bg-opacity, 1));
-}
-
 .hover\:text-cream-foreground:hover {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
@@ -1990,11 +1985,6 @@ video {
 .group\/card:hover .group-hover\/card\:bg-green {
   --tw-bg-opacity: 1;
   background-color: rgb(115 190 72 / var(--tw-bg-opacity, 1));
-}
-
-.group:hover .group-hover\:bg-secondary {
-  --tw-bg-opacity: 1;
-  background-color: rgb(28 187 180 / var(--tw-bg-opacity, 1));
 }
 
 .group\/btn:hover .group-hover\/btn\:text-green-foreground {
